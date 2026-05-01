@@ -60,4 +60,4 @@ All experiments run on Kaggle free-tier T4 GPUs. Notebooks in `notebooks/` are s
 
 ## Contact
 
-Rohul Amin — rohul.amin@baust.edu.bd
+Rohul Amin — labiddbzg@gmail.com
