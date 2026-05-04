@@ -6,10 +6,11 @@ BDSE: First emotion-annotated dataset for Bangladeshi street dogs, with PEACE me
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-**Paper:** "Deep-Learning Based Emotion Recognition in Bangladeshi Street Dogs: An Ethogram-Anchored Prototype Method and A Population-Specific Dataset"
+**Paper:** "Prototype Ethogram-Anchored Emotion Recognition in Free-Ranging Bangladeshi Street Dogs"
 
-**Authors:** Rohul Amin*, Dr. Julia Rahman 
-**Affiliation:** Department of CSE, Rajshahi University of Engineering & Technology (RUET), Rajshahi , Bangladesh  
+**Authors:** Rohul Amin¹*, Dr. Julia Rahman¹² 
+**Affiliation:** 1. Department of CSE, Rajshahi University of Engineering & Technology (RUET), Rajshahi , Bangladesh
+2. School of Information and Communication Technology, Griffith University, Nathan, QLD 4111, Australia.
 
 ---
 
